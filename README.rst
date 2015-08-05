@@ -26,14 +26,23 @@ Installation
 Configuration
 ========================================
 
-Configuration file: fuzz/settings.cfg
+Configuration file: ``fuzz/settings.cfg``
 
 
 Execution
 ========================================
 
-CLI: $ ./fuzz/fuzz.py
-GUI: $ ./fuzz/gui.py
+CLI:
+
+.. code-block:: sh
+
+    $ ./fuzz/fuzz.py
+
+GUI:
+
+.. code-block:: sh
+
+    $ ./fuzz/gui.py
 
 
 Example
